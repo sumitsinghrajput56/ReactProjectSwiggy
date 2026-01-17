@@ -1,0 +1,23 @@
+{
+  "name": "sumit",
+  "version": "1.0.0",
+  "description": "swiggy application",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sumitsinghrajput56/ReactProjectSwiggy.git"
+  },
+  "keywords": [],
+  "author": "sumit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sumitsinghrajput56/ReactProjectSwiggy/issues"
+  },
+  "homepage": "https://github.com/sumitsinghrajput56/ReactProjectSwiggy#readme",
+  "devDependencies": {
+    "parcel": "^2.16.3"
+  }
+}
