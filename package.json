@@ -1,10 +1,8 @@
 {
   "name": "sumit",
   "version": "1.0.0",
-  "description": "swiggy application",
-  "main": "App.js",
   "scripts": {
-    "test": "jest"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
@@ -17,7 +15,12 @@
     "url": "https://github.com/sumitsinghrajput56/ReactProjectSwiggy/issues"
   },
   "homepage": "https://github.com/sumitsinghrajput56/ReactProjectSwiggy#readme",
+  "description": "swiggy project",
   "devDependencies": {
     "parcel": "^2.16.3"
+  },
+  "dependencies": {
+    "react": "^19.2.3",
+    "react-dom": "^19.2.3"
   }
 }
